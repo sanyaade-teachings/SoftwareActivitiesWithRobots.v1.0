@@ -1,0 +1,10 @@
+_backup
+_temp
+images
+install
+soft/_experiments
+*~
+*.txt
+*.depend
+*.res
+*.o
