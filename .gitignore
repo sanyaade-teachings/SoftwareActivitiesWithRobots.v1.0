@@ -3,7 +3,7 @@ _temp
 images
 install
 soft/_experiments
-*~
+*~*
 *.txt
 *.depend
 *.res
